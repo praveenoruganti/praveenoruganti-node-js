@@ -1,0 +1,27 @@
+{
+  "name": "timezone",
+  "version": "1.0.0",
+  "description": "utility to convert timezones",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenoruganti/praveenoruganti-node-js.git"
+  },
+  "keywords": [
+    "[praveenoruganti",
+    "nodejs]"
+  ],
+  "author": "Praveen Oruganti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenoruganti/praveenoruganti-node-js/issues"
+  },
+  "homepage": "https://github.com/praveenoruganti/praveenoruganti-node-js#readme",
+  "dependencies": {
+    "moment-timezone": "^0.5.31"
+  }
+}
