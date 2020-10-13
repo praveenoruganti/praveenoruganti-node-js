@@ -1,12 +1,16 @@
-const moment = require('moment-timezone');
-moment.tz.setDefault('Asia/Kolkata');
+const moment = require("moment-timezone");
+moment.tz.setDefault("Asia/Kolkata");
 
 let targetTimezone;
-if(process.argv.length !=3) {
-    console.log("Usage: node <script-file> <timezone>");
-    process.exit(1);
+if (process.argv.length != 3) {
+  console.log("Usage: node <script-file> <timezone>");
+  process.exit(1);
 } else {
-    targetTimezone= process.argv[2];
+  targetTimezone = process.argv[2];
 }
 
-console.log(`The time at the ${targetTimezone} timezone is ${moment().tz(targetTimezone).format()}`);
+console.log(
+  `The time at the ${targetTimezone} timezone is ${moment()
+    .tz(targetTimezone)
+    .format()}`
+);
