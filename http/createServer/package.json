@@ -1,7 +1,7 @@
 {
-  "name": "http-fetch",
+  "name": "http-createServer",
   "version": "1.0.0",
-  "description": "HTTP Requests using fetch",
+  "description": "HTTP createServer in Node JS",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
