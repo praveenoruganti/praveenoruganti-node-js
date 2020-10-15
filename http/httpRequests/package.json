@@ -1,0 +1,25 @@
+{
+  "name": "http-fetch",
+  "version": "1.0.0",
+  "description": "HTTP Requests using fetch",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenoruganti/praveenoruganti-node-js.git"
+  },
+  "keywords": [
+    "[praveenoruganti",
+    "http",
+    "fetch]"
+  ],
+  "author": "Praveen Oruganti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/praveenoruganti/praveenoruganti-node-js/issues"
+  },
+  "homepage": "https://github.com/praveenoruganti/praveenoruganti-node-js#readme"
+}
