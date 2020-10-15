@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
-    "test": "npm test"
+    "callbacks": "node callbacks.js",
+    "promises": "node promises.js",
+    "asyncAwait": "node asyncAwait.js"
   },
   "repository": {
     "type": "git",
