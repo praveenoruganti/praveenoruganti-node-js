@@ -9,6 +9,8 @@ axios
   })
   .catch((error) => console.error(error));
 
+const axios = require("axios");
+
 const postUrl = "https://jsonplaceholder.typicode.com/posts";
 
 const postData = JSON.stringify({
