@@ -1,0 +1,25 @@
+{
+  "name": "callbacks-promises-async-await",
+  "version": "1.0.0",
+  "description": "Callbacks vs Promises vs Async/Await",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenoruganti/praveenoruganti-node-js.git"
+  },
+  "keywords": [
+    "[praveenoruganti",
+    "npm",
+    "nodejs]"
+  ],
+  "author": "Praveen Oruganti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/praveenoruganti/praveenoruganti-node-js/issues"
+  },
+  "homepage": "https://github.com/praveenoruganti/praveenoruganti-node-js#readme"
+}
