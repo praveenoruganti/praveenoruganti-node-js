@@ -1,0 +1,28 @@
+{
+  "name": "axios-api",
+  "version": "1.0.0",
+  "description": "Axios API for handling HTTP Requests with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenoruganti/praveenoruganti-node-js.git"
+  },
+  "keywords": [
+    "[praveenoruganti",
+    "http",
+    "axios]"
+  ],
+  "author": "Praveen Oruganti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/praveenoruganti/praveenoruganti-node-js/issues"
+  },
+  "homepage": "https://github.com/praveenoruganti/praveenoruganti-node-js#readme",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
