@@ -1,0 +1,28 @@
+{
+  "name": "mysql-nodejs",
+  "version": "1.0.0",
+  "description": "Working with MySQL in Node JS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenoruganti/praveenoruganti-node-js.git"
+  },
+  "keywords": [
+    "[praveenoruganti",
+    "mySQL",
+    "nodejs]"
+  ],
+  "author": "Praveen Oruganti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/praveenoruganti/praveenoruganti-node-js/issues"
+  },
+  "homepage": "https://github.com/praveenoruganti/praveenoruganti-node-js#readme",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  }
+}
