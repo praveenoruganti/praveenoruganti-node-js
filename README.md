@@ -1,4 +1,4 @@
-# Praveen Oruganti Tech Node JS Course
+# Node JS Course
 
 - [Introduction](https://praveenorugantitech.blogspot.com/2019/11/all-about-node-js.html){:target="_blank"}
 - [NPM Basics](https://praveenorugantitech.blogspot.com/2019/11/npm-basics.html){:target="_blank"}
