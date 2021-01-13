@@ -1,7 +1,6 @@
-![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
-
-
 # Node JS Course
+
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
 
 - [Introduction](https://praveenorugantitech.blogspot.com/2019/11/all-about-node-js.html){:target="_blank"}
 - [NPM Basics](https://praveenorugantitech.blogspot.com/2019/11/npm-basics.html){:target="_blank"}
