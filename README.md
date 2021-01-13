@@ -1,3 +1,6 @@
+![screenshot of the app](https://raw.githubusercontent.com/praveenorugantitech/praveenorugantitech-express-js/master/tech.PNG)
+
+
 # Node JS Course
 
 - [Introduction](https://praveenorugantitech.blogspot.com/2019/11/all-about-node-js.html){:target="_blank"}
